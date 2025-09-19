@@ -1,0 +1,25 @@
+{
+  "name": "lazytea-docs",
+  "version": "1.0.0",
+  "description": "LazyTea 生态系统完整文档",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "nonebot",
+    "nonebot2", 
+    "lazytea",
+    "documentation",
+    "vitepress"
+  ],
+  "author": "LazyTea Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.21"
+  }
+}
